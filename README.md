@@ -56,7 +56,7 @@ Make sure to install these dependencies before running the script.
 
 - **Haitham Aouati**
   - GitHub: [github.com/haithamaouati](https://github.com/haithamaouati)
-  - Telegram: [t.me/haithamaouati](t.me/haithamaouati)
+  - Telegram: [t.me/haithamaouati](https://t.me/haithamaouati)
 
 ## License
 
