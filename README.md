@@ -1,7 +1,7 @@
 # Weather
 The right way to check the weather.
 
-Weather is based on [wttr.in](https://github.com/chubin/wttr.in) a console-oriented weather forecast service that supports various information representation methods like terminal-oriented ANSI-sequences for console HTTP clients (curl, httpie, or wget), HTML for web browsers, or PNG for graphical viewers.
+Weather is based on [wttr.in](https://github.com/chubin/wttr.in) a weather client for the terminal.
 
 ```
 $ bash weather.sh Skikda
