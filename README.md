@@ -1,7 +1,7 @@
 # Weather
 The right way to check the weather.
 
-Weather is based on [wttr.in](https://github.com/chubin/wttr.in) a weather client for the terminal.
+**Weather** is based on [wttr.in](https://github.com/chubin/wttr.in) a weather client for the terminal.
 
 ```
 $ bash weather.sh Skikda
@@ -38,6 +38,10 @@ To use the Weather script, follow these steps:
 
    Replace `<Location>` with the actual location you want to checking.
 
+   ```bash
+   bash weather.sh Skikda
+   ```
+   
 ## Dependencies
 
 The script requires the following dependencies:
