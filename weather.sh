@@ -34,9 +34,9 @@ fi
 
 # Author info
 clear
-echo -e "\n\n${RED}$(figlet -f pagga.flf Weather)\n"
+echo -e "\n\n${YELLOW}$(figlet -f pagga.flf Weather)\n"
 sleep 1
-echo -e "${RED_BOLD}Weather ${CLEAR}by Haitham Aouati"
+echo -e "${YELLOW_BOLD}Weather ${CLEAR}by Haitham Aouati"
 echo -e " The right way to check the weather.\n" | pv -qL 10
 echo -e "GitHub: ${UNDERLINE}github.com/haithamaouati${CLEAR}\n"
 
