@@ -1,6 +1,8 @@
 #!/bin/bash
+
 # Author: Haitham Aouati
 # GitHub: github.com/haithamaouati
+# Description: Weather is a weather client for the terminal.
 
 # Clear the screen
 clear
@@ -13,9 +15,11 @@ UNDERLINE="\e[4m"
 
 # Text color
 RED="\e[31m"
+YELLOW="\e[33m"
 
 # Text color with bold font
 RED_BOLD="\e[1;31m"
+YELLOW_BOLD="\e[1;33m"
 
 # Prompt for location if not provided as an argument
 location=$1
