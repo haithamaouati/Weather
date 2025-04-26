@@ -1,7 +1,13 @@
 # Weather
 The right way to check the weather.
 
-**Weather** is based on [wttr.in](https://github.com/chubin/wttr.in) a weather client for the terminal.
+```
+ __        __                 _     _                   
+ \ \      / /   ___    __ _  | |_  | |__     ___   _ __ 
+  \ \ /\ / /   / _ \  / _` | | __| | '_ \   / _ \ | '__|
+   \ V  V /   |  __/ | (_| | | |_  | | | | |  __/ | |   
+    \_/\_/     \___|  \__,_|  \__| |_| |_|  \___| |_|
+```
 
 ## Install
 
