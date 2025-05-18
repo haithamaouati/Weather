@@ -61,4 +61,4 @@ Made with :coffee: by **Haitham Aouati**
 
 ## License
 
-Weather is licensed under [Unlicense license](LICENSE)
+Weather is licensed under [WTFPL license](LICENSE)
